@@ -6,7 +6,7 @@ This Vocabulary Revision App is a simple, interactive tool designed to help user
 
 ## Live Site
 
-Experience the Vocabulary Revision App live [here](https://your-live-site-url.com).
+Experience the Vocabulary Revision App live [here](https://krissny.github.io/WordQuiz/).
 
 ## Usage
 
