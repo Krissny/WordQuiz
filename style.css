@@ -58,3 +58,12 @@ p {
   z-index: 1000;
   border: 2px solid;
 }
+#darkModeToggle.dark {
+  position: fixed;
+  top: 3px;
+  left: 5px;
+  z-index: 1000;
+  border: 2px solid;
+  color: white;
+  background-color: #333;
+}

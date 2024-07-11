@@ -46,6 +46,7 @@ if (isDarkModeEnabled) {
 darkModeToggle.addEventListener("click", () => {
   darkModeToggle.textContent =
     darkModeToggle.textContent == "Light" ? "Dark" : "Light";
+  darkModeToggle.classList.toggle("dark");
   body.classList.toggle("dark-mode");
   // Save user preference (e.g., in local storage) if needed
 });
